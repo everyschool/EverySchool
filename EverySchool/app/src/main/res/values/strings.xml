@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">EverySchool</string>
-    <string name="title_activity_login">LoginActivity</string>
-    <string name="title_activity_seats">SeatsActivity</string>
 </resources>
