@@ -1,4 +1,4 @@
-# 모두의학교 프로젝트 안드로이드 App Source
 #Every School Android Application Project
----
-### manki master pull-request test!!!
+
+- - -
+### 각 브랜치 전략은 추후 공지  
